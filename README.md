@@ -1,0 +1,2 @@
+# PyDiBot
+simple discord bot
